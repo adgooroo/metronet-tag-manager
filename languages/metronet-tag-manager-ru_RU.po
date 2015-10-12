@@ -24,8 +24,7 @@ msgstr "Настройки"
 #: ../metronet-tag-manager.php:245
 #, fuzzy
 msgid "Google Tag Manager DataLayer variables"
-msgstr ""
-"Добавить тег менеджер Google отслеживания и объявить переменные уровня данных"
+msgstr "Добавить тег менеджер Google отслеживания и объявить переменные уровня данных"
 
 #: ../metronet-tag-manager.php:374
 #, fuzzy
@@ -35,7 +34,7 @@ msgstr "Имя: "
 #: ../metronet-tag-manager.php:375
 #, fuzzy
 msgid "Value: "
-msgstr "Значение:"
+msgstr "Значение: "
 
 #: ../metronet-tag-manager.php:375 ../metronet-tag-manager.php:394
 #, fuzzy
@@ -112,18 +111,17 @@ msgstr ""
 msgid ""
 "To see some examples, please visit the <a href=\"%s\">Google Tag Manager "
 "Reference</a>."
-msgstr ""
+msgstr "Что бы увидеть примеры, посетите страницу <a href=\"%s\">Google Tag Manager "
+"Reference</a>."
 
 #: ../metronet-tag-manager.php:594
 msgid "External Variables"
 msgstr "Внешние переменные"
 
 #: ../metronet-tag-manager.php:596
-msgid ""
-"Add global variables that will show on all pages except posts, pages, or "
+msgid "Add global variables that will show on all pages except posts, pages, or "
 "custom post types."
-msgstr ""
-"Добавьте глобальные переменные, которые будут показывать на всех страницах, "
+msgstr "Добавьте глобальные переменные, которые будут показывать на всех страницах, "
 "за исключением постов, страниц или пользовательских типов данных."
 
 #: ../metronet-tag-manager.php:602
@@ -177,7 +175,7 @@ msgstr "Слои"
 #: ../tinyMCE/addparams.php:69
 #, fuzzy
 msgid "Parameter"
-msgstr "Parameter"
+msgstr "Параметр"
 
 #: ../tinyMCE/addparams.php:79
 #, fuzzy
